@@ -1,15 +1,13 @@
 # Restaurant Rating Prediction
 Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
 
-
-
 ## Project Overview
 
 This project aims to build a machine-learning model that predicts the aggregate rating of a restaurant based on various features such as cuisine, location, price range, and online delivery options. The project uses a dataset of restaurant information and employs regression algorithms to train and evaluate the model's performance.
 
 ## Dataset
 
-The dataset used for this project contains information about restaurants, including their name, location, cuisine, price range, customer ratings, and other relevant features. You can find the dataset in the file named `Dataset (1).csv`. Make sure to include this file in your project directory.
+The dataset used for this project contains information about restaurants, including their name, location, cuisine, price range, customer ratings, and other relevant features. You can find the dataset in the file named `Dataset (1).csv` provided by cognifyz.
 
 ## Methodology
 
